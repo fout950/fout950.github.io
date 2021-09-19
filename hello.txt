@@ -1,0 +1,9 @@
+hello
+raid
+green
+chunk
+asteroid
+earth
+tree
+path
+machiene
